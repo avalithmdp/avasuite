@@ -1,4 +1,4 @@
 avasuite
 ========
 
-Tools for fast development writen in PHP
+Rapid development tools written in PHP 
